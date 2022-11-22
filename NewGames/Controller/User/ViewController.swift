@@ -21,10 +21,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-                
-        emailTextField.text = "sukruozkoca19@hotmail.com"
-        passwordTextField.text = "sukru1218"
-        
         signButton.layer.cornerRadius = 25
         signButton.layer.backgroundColor = UIColor.green.cgColor
         
